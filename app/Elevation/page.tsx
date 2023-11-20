@@ -50,7 +50,7 @@ const nacelleInfo = {
     elec: true,
   },
   "Nacelle telescopiques": {
-    title: "Nacelles télescopiques",
+    title: "Nacelles Telescopiques",
     diman: "16 à 43 mètres",
     desi: "Grâce à leur ample portée et leur vitesse, les nacelles télescopiques sont des équipements idéaux pour les chantiers navals, les opérations de démolition, de construction, ainsi que pour l'entretien et la finition des ouvrages d'art .",
     dies: true,
